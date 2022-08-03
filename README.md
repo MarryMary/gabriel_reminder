@@ -23,12 +23,12 @@ https://discord.com/oauth2/authorize?client_id=1003471839525351444&permissions=2
   * このbotを動作させるために使用するpythonバージョンを記載しています。python 3.10.5 で動作させています。
 
 # 動作イメージ
-![image](https://user-images.githubusercontent.com/92404990/182513133-634cf87b-16d4-49f8-b88e-8c5aeb777d92.png)
-![image](https://user-images.githubusercontent.com/92404990/182513151-61bb04ec-992f-41a7-95f8-c1fdb6fb41e6.png)
-![image](https://user-images.githubusercontent.com/92404990/182513174-22aa4207-6c23-4a23-8ed2-9eb50d4db2ef.png)
-![image](https://user-images.githubusercontent.com/92404990/182513199-726125b1-3b64-4f2b-93d5-4276ad5e4d55.png)
-![image](https://user-images.githubusercontent.com/92404990/182513263-8ef50248-2264-4b65-8135-443fa4cb78b5.png)
-![image](https://user-images.githubusercontent.com/92404990/182513282-c48f8b0d-b2ce-4fe9-a743-f09cadb754c8.png)
+![image](https://user-images.githubusercontent.com/92404990/182513133-634cf87b-16d4-49f8-b88e-8c5aeb777d92.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513151-61bb04ec-992f-41a7-95f8-c1fdb6fb41e6.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513174-22aa4207-6c23-4a23-8ed2-9eb50d4db2ef.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513199-726125b1-3b64-4f2b-93d5-4276ad5e4d55.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513263-8ef50248-2264-4b65-8135-443fa4cb78b5.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513282-c48f8b0d-b2ce-4fe9-a743-f09cadb754c8.png)  
 
 
 # なぜ時間に正確性がないのか
