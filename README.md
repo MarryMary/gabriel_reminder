@@ -28,7 +28,7 @@ https://discord.com/oauth2/authorize?client_id=1003471839525351444&permissions=2
 ![image](https://user-images.githubusercontent.com/92404990/182513174-22aa4207-6c23-4a23-8ed2-9eb50d4db2ef.png)  
 ![image](https://user-images.githubusercontent.com/92404990/182513199-726125b1-3b64-4f2b-93d5-4276ad5e4d55.png)  
 ![image](https://user-images.githubusercontent.com/92404990/182513263-8ef50248-2264-4b65-8135-443fa4cb78b5.png)  
-![image](https://user-images.githubusercontent.com/92404990/182513282-c48f8b0d-b2ce-4fe9-a743-f09cadb754c8.png)  
+![image](https://user-images.githubusercontent.com/92404990/182513366-82384c87-1a16-4c72-bce1-dc3a3d997032.png)   
 
 
 # なぜ時間に正確性がないのか
